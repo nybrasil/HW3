@@ -19,6 +19,8 @@ Click the "Generate Password" button.
 Follow the prompts to select the password criteria.
 After answering all prompts, the generated password will be displayed on the web page.
 
+![alt text](assets/Screenshot%202024-02-19%20at%209.58.04 AM.png)
+
 ## Technologies Used
 - HTML
 - CSS
